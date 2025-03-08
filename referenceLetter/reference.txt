@@ -1,0 +1,36 @@
+[Recommendation Letter Start]
+
+Dear Members of the Polymath Selection Committee,
+
+I am pleased to write this letter of recommendation for Zhang Jinrui, 
+who is applying for the Polymath Summer Research Program. 
+As his instructor in Mathematical Analysis, 
+I have had the opportunity to observe his exceptional mathematical 
+abilities and his potential for research, and I strongly recommend him for this program.
+
+Zhang Jinrui is one of the most outstanding students in my class, 
+demonstrating excellent mathematical reasoning and analytical skills. 
+In the Mathematical Analysis course, he actively contribute to discussions in class, 
+mastering skilled in using computational modeling 
+techniques to address mathematical problems, 
+with proficiency in programming languages including C/C++ and Python.. 
+More importantly, Zhang has shown creativity and rigor in problem-solving. 
+He is able to think independently and offer new perspectives on challenging topics.
+
+
+I am confident that Zhang Jinrui's academic abilities, problem-solving potential, 
+and passion for mathematics make him an ideal candidate for the 
+Polymath Summer Research Program. 
+I wholeheartedly recommend him and believe he will make a significant 
+contribution to the program while gaining valuable academic experience.
+
+Please feel free to contact me if you require any further information.
+
+Sincerely,
+
+[Professor's Name]  
+[Professor's Title]  
+[University/Institution Name]  
+[Contact Information]  
+
+[Recommendation Letter End]
